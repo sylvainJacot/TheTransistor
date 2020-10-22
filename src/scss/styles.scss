@@ -1,6 +1,9 @@
 /////// ABSTRACT ///////
 @import './abstracts/global';
 
+/////// COMPONENTS ///////
+@import './components/header';
+
 /////// PAGES ///////
 @import './pages/aboutpage.scss';
 @import './pages/index';
